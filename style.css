@@ -174,8 +174,6 @@ margin:200px 0;
 }
 .item:hover .overlay{top:0}
 
-
-
 .slidersection {}
 .contentsection {
   background: #ffffff none repeat scroll 0 0;
@@ -257,6 +255,7 @@ margin:200px 0;
   color: #ac7511;
   text-decoration: none;
 }
+.samepost h2 a:hover{colo:#F0CA1F!important;}
 .samepost h4,.about h4 {
   font-weight: normal;
   margin-bottom: 10px;
